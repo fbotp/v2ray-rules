@@ -1,0 +1,28 @@
+{
+    "author": "rourou",
+    "description": "作者太懒，没有写描述",
+    "domainMatcher": "mph",
+    "domainStrategy": "AsIs",
+    "domains": {
+        "block": [
+            "geosite:category-ads-all"
+        ],
+        "direct": [
+            "regexp:.+"
+        ],
+        "proxy": [
+            "geosite:facebook",
+            "geosite:github",
+            "geosite:google",
+            "geosite:stackexchange",
+            "geosite:v2ray"
+        ]
+    },
+    "ips": {
+        "direct": [
+            "0.0.0.0/0",
+            "::/0"
+        ]
+    },
+    "name": "v2ray"
+}
