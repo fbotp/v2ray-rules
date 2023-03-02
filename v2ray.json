@@ -14,7 +14,9 @@
       "geosite:facebook",
       "geosite:github",
       "geosite:google",
+      "geosite:openai",
       "geosite:stackexchange",
+      "geosite:steam",
       "geosite:v2ray"
     ],
     "enabled": true
