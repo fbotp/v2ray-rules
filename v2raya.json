@@ -1,0 +1,3 @@
+default: direct
+
+domain(geosite:facebook,geosite:github,geosite:google,geosite:stackexchange,geosite:v2ray)->proxy
