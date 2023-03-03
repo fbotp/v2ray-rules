@@ -1,9 +1,9 @@
 default: direct
 
-domain(geosite:facebook,
-geosite:github,
-geosite:google,
-geosite:reddit,
-geosite:stackexchange,
-geosite:steam,
-geosite:v2ray)->proxy
+domain(geosite:facebook)->proxy
+domain(geosite:github)->proxy
+domain(geosite:google)->proxy
+domain(geosite:reddit)->proxy
+domain(geosite:stackexchange)->proxy
+domain(geosite:steam)->proxy
+domain(geosite:v2ray)->proxy
