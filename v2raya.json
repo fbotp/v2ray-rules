@@ -1,5 +1,6 @@
 default: direct
 
+domain(geosite:category-forums)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy

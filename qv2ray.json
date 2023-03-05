@@ -11,6 +11,7 @@
             "regexp:.+"
         ],
         "proxy": [
+            "geosite:category-forums",
             "geosite:facebook",
             "geosite:github",
             "geosite:google",
