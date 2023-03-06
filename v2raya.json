@@ -4,6 +4,7 @@ domain(geosite:category-forums)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy
+domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
