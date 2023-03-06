@@ -9,4 +9,5 @@ domain(geosite:openai)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
 domain(geosite:steam)->proxy
+domain(geosite:twitter)->proxy
 domain(geosite:v2ray)->proxy

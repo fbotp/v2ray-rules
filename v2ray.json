@@ -20,6 +20,7 @@
       "geosite:reddit",
       "geosite:stackexchange",
       "geosite:steam",
+      "geosite:twitter",
       "geosite:v2ray"
     ],
     "enabled": true
