@@ -8,6 +8,8 @@ domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
-domain(geosite:steam)->proxy
+domain(steamcommunity.com)->proxy
+domain(steampowered.com)->proxy
 domain(geosite:twitter)->proxy
 domain(geosite:v2ray)->proxy
+domain(v2raya.org)->proxy
