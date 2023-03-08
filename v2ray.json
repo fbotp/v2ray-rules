@@ -23,7 +23,8 @@
       "steampowered.com",
       "geosite:twitter",
       "geosite:v2ray",
-      "v2raya.org"
+      "v2raya.org",
+      "geosite:wikimedia"
     ],
     "enabled": true
   },

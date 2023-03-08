@@ -13,3 +13,4 @@ domain(steampowered.com)->proxy
 domain(geosite:twitter)->proxy
 domain(geosite:v2ray)->proxy
 domain(v2raya.org)->proxy
+domain(geosite:wikimedia)->proxy
