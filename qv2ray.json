@@ -11,7 +11,7 @@
             "regexp:.+"
         ],
         "proxy": [
-            "geosite:category-forums",
+            "arxiv.org",
             "geosite:facebook",
             "geosite:github",
             "geosite:google",
@@ -23,6 +23,7 @@
             "steampowered.com",
             "geosite:twitter",
             "geosite:v2ray",
+            "v2ex.com",
             "v2raya.org",
             "geosite:wikimedia"
         ]
