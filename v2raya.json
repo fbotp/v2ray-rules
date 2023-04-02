@@ -1,6 +1,7 @@
 default: direct
 
 domain(arxiv.org)->proxy
+domain(debrepo.freedownloadmanager.org)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy
@@ -8,6 +9,7 @@ domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
+domain(ppa.launchpadcontent.net)->proxy
 domain(pypi.org)->proxy
 domain(steamcommunity.com)->proxy
 domain(steampowered.com)->proxy

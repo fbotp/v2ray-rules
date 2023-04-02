@@ -12,6 +12,7 @@
         ],
         "proxy": [
             "arxiv.org",
+            "debrepo.freedownloadmanager.org",
             "geosite:facebook",
             "geosite:github",
             "geosite:google",
@@ -19,6 +20,7 @@
             "geosite:openai",
             "geosite:reddit",
             "geosite:stackexchange",
+            "ppa.launchpadcontent.net",
             "pypi.org",
             "steamcommunity.com",
             "steampowered.com",
