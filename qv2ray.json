@@ -13,6 +13,7 @@
         "proxy": [
             "arxiv.org",
             "debrepo.freedownloadmanager.org",
+            "geosite:docker",
             "geosite:facebook",
             "geosite:github",
             "geosite:google",

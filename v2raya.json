@@ -2,6 +2,7 @@ default: direct
 
 domain(arxiv.org)->proxy
 domain(debrepo.freedownloadmanager.org)->proxy
+domain(geosite:docker)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy
