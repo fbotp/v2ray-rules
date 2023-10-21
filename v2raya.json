@@ -8,6 +8,7 @@ domain(geosite:github)->proxy
 domain(geosite:google)->proxy
 domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
+domain(geosite:quora)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
 domain(ppa.launchpadcontent.net)->proxy

@@ -19,6 +19,7 @@
             "geosite:google",
             "geosite:medium",
             "geosite:openai",
+            "geosite:quora",
             "geosite:reddit",
             "geosite:stackexchange",
             "ppa.launchpadcontent.net",
