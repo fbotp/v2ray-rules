@@ -1,24 +1,25 @@
 default: direct
 
-domain(arxiv.org)->proxy
-domain(debrepo.freedownloadmanager.org)->proxy
-domain(files.pythonhosted.org)->proxy
+domain(geosite:category-dev)->proxy
+domain(geosite:category-forums)->proxy
+domain(geosite:category-scholar-!cn)->proxy
 domain(geosite:docker)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy
 domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
+domain(geosite:python)->proxy
 domain(geosite:quora)->proxy
 domain(geosite:reddit)->proxy
 domain(geosite:stackexchange)->proxy
-domain(ppa.launchpadcontent.net)->proxy
-domain(pypi.org)->proxy
-domain(steamcommunity.com)->proxy
-domain(steampowered.com)->proxy
-domain(steamunlocked.net)->proxy
+domain(geosite:steam)->proxy
+domain(geosite:steamunlocked)->proxy
 domain(geosite:twitter)->proxy
 domain(geosite:v2ray)->proxy
-domain(v2ex.com)->proxy
-domain(v2raya.org)->proxy
 domain(geosite:wikimedia)->proxy
+
+domain(debrepo.freedownloadmanager.org)->proxy
+domain(ppa.launchpadcontent.net)->proxy
+domain(v2raya.org)->proxy
+domain(www.popai.pro)->proxy
