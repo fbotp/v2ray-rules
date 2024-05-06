@@ -1,6 +1,5 @@
 default: direct
 
-domain(geosite:category-communication)->proxy
 domain(geosite:category-dev)->proxy
 domain(geosite:category-forums)->proxy
 domain(geosite:category-scholar-!cn)->proxy
@@ -10,6 +9,7 @@ domain(geosite:github)->proxy
 domain(geosite:google)->proxy
 domain(geosite:medium)->proxy
 domain(geosite:openai)->proxy
+domain(geosite:paypal)->proxy
 domain(geosite:python)->proxy
 domain(geosite:quora)->proxy
 domain(geosite:reddit)->proxy
