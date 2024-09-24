@@ -3,7 +3,6 @@ default: direct
 domain(geosite:category-dev)->proxy
 domain(geosite:category-forums)->proxy
 domain(geosite:category-scholar-!cn)->proxy
-domain(geosite:docker)->proxy
 domain(geosite:facebook)->proxy
 domain(geosite:github)->proxy
 domain(geosite:google)->proxy
